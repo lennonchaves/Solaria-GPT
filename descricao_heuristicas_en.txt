@@ -1,0 +1,134 @@
+Heuristic: 1. Visibility of System Status 
+Keywords: Breadcrumb, System Feedback, User Communication, Interface Transparency, Response Time, Real-time Updates, Progress Indicators, Status Messages, User Trust, System Notifications, Activity Signaling, Status Clarity, Informative Interface 
+Examples of Problems:
+Lack of feedback after an action: When a user clicks a button or submits a form but receives no visual or auditory indication that the action has been registered or is in process.
+Absent or insufficient loading bar: During the loading of a page or execution of a time-consuming task, the system fails to display a progress bar or an indicator of activity, leaving the user uncertain about what is happening.
+Uninformative error messages: When errors occur, the system displays vague messages like "Something went wrong," without providing details about what happened or what the user can do to resolve the issue.
+Non-real-time status updates: Important information, such as the status of an order or the progress of a file transfer, is not updated in real-time, leading the user to wonder if the operation is actually ongoing.
+Invisible activity indicators: When the system is processing data or performing a background task but lacks any indicator (such as a spinning icon) to inform the user that the system is busy.
+Silent state changes: A user action, such as activating a mode or changing a setting, occurs without any visible or auditory change indicating that the state has been altered.
+Missing action confirmation: After performing a critical action, such as sending an email or making a payment, the system does not confirm that the operation was successful, leaving the user uncertain about the status.
+
+Heuristic: 2. Match Between System and the Real World 
+Keywords: Familiar Language, Intuitive Terminology, Visual Metaphors, Realistic Representations, Real-world Conventions, Clear Nomenclature, Natural Interaction, Comprehensible Symbolism, Contextual Feedback, Familiar Concepts, Intuitive Colors and Icons, Realistic Actions and Objects 
+Examples of Problems:
+Use of jargon or technical terms: The system uses technical terminology or jargon unfamiliar to the average user, complicating understanding and interaction.
+Non-intuitive visual elements: Icons, buttons, or visual elements that do not correspond to real-world representations, making navigation and interaction confusing.
+Inadequate metaphors: The system uses visual or conceptual metaphors that are unclear or ambiguous, causing confusion about the functionality or purpose of elements.
+Non-compliance with design conventions: The system does not follow widely accepted patterns or conventions, such as placing buttons in unexpected locations or using non-standard colors and symbols.
+Non-contextual feedback: The system's feedback does not match the user's action context, like generic error messages that do not aid in understanding the issue.
+Inaccurate graphical representations: Graphics or images that do not accurately represent real-world objects or actions, leading to misunderstandings or usage errors.
+Unclear instructions: Guidance and instructions that do not reflect how users would normally think or act in the real world, resulting in incorrect or confused actions.
+Non-intuitive navigation: Navigation structures and flows that do not follow logic or organization expected by users, making it difficult to locate information or complete tasks.
+
+Heuristic: 3. User Control and Freedom 
+Keywords: Undo, Redo, Action Cancellation, User Control, Flexible Navigation, Customization Options, Undo and Redo, Confirm Actions, Easy Cancellation, Backtracking, User Autonomy, Interface Personalization 
+Examples of Problems:
+Lack of undo option: The system does not provide an option to undo actions, leading to frustration when users make mistakes.
+No redo option: After undoing an action, the system does not allow reverting to the previous state, limiting user flexibility.
+Inability to cancel actions: Actions, such as form submissions or significant modifications, cannot be cancelled before completion.
+Rigid navigation: The system has a fixed navigation flow and does not allow users to return to previous steps or alter their path.
+Mandatory action confirmation: The need to confirm every action can be excessive, making the process slower and less efficient.
+No customization options: The system does not provide options to customize the interface or functionality according to user preferences.
+Lack of control over session: The user does not have control over session timing or is automatically logged out without warning.
+Uninformative error messages: Error messages do not provide useful information or suggestions on how to fix the problem, limiting the user's ability to act.
+Unexpected interruptions: The system interrupts the user with pop-ups or alerts without the possibility to postpone or control these interruptions.
+Inability to save progress: The system does not allow saving progress or returning to previous work, forcing the user to start over.
+
+Heuristic: 4. Consistency and Standards 
+Keywords: Visual Consistency, Design Patterns, Interface Standards, Style Coherence, Predictable Behavior, Design Conventions, Consistent Layout, Uniform Iconography, Consistent Terminology, Reuse of Elements, Uniform Feedback, Coherent Navigation 
+Examples of Problems:
+Visual inconsistency: Different pages or sections of the system use varied visual styles, such as colors and fonts, creating a disjointed experience.
+Varied navigation patterns: The system uses different navigation methods in different parts, such as inconsistent navigation buttons or menus with varied layouts.
+Non-uniform iconography: Icons or symbols used to represent actions or functions are not consistent, leading to confusion about their meaning.
+Uneven terminology: The system uses different terms to describe the same action or concept in different places, causing confusion for the user.
+Varied feedback: Error messages, confirmations, or alerts do not follow a uniform pattern, making it unclear what the user can expect.
+Inconsistent buttons and controls: The appearance and behavior of buttons and controls are not uniform across the interface, confusing users about how to interact with the system.
+Unequal layouts: Pages or sections of the system have different layouts to present similar information, making understanding and navigation difficult.
+Unexpected behavior of elements: Interface elements behave differently according to context, such as menus that expand or collapse in unexpected ways.
+Inconsistent system responses: The system responds differently to similar actions, such as different types of feedback for clicks on similar buttons.
+Design patterns not followed: The system does not follow widely recognized design patterns or conventions, making it difficult for users to adapt and increasing the learning curve.
+
+Heuristic: 5. Error Prevention 
+Keywords: Error Prevention, Data Validation, Action Confirmation, Informative Error Messages, Input Restrictions, Fail-safe Design, Foolproof Design, Correction Suggestions, Preventive Feedback, Input Control, Confirm Before Deleting, Invalid Input Prevention 
+Examples of Problems:
+Lack of data validation: The system allows the user to enter invalid or incorrect data without providing feedback or restrictions, resulting in errors or failures.
+Insufficient confirmation of critical actions: The system performs important actions, such as data deletion or information submission, without asking for additional confirmation, leading to accidental errors.
+Uninformative error messages: When an error occurs, the system displays generic or vague messages, not providing useful information for correcting the problem.
+Unrestricted data entry: The system does not limit the types or formats of data that can be entered, allowing inputs that can cause issues or failures.
+Absence of correction suggestions: When a user makes a mistake, the system does not provide suggestions or guidance on how to correct the problem.
+Non-foolproof design: The system does not implement protections to prevent common errors, such as allowing users to perform actions in the wrong order or without the necessary permissions.
+Lack of preventive feedback: The system does not warn the user about potential problems before they occur, such as missing mandatory fields or formatting errors.
+Inadequate input control: The system does not adequately check or control user inputs, leading to inconsistent or poorly formatted data.
+Unrequested deletion confirmation: The system allows users to delete important information or settings without asking for explicit confirmation, potentially resulting in accidental data loss.
+Non-visible feedback messages: Error or alert messages are displayed in a non-visible or easily ignorable manner, making it difficult for the user to notice and correct errors.
+
+Heuristic: 6. Recognition Rather than Recall 
+Keywords: Information Recognition, Visible Menus, Contextual Suggestions, Navigation Elements, Hints and Reminders, Action History, Visible Interface Elements, Visual Shortcuts, Descriptive Names, Help Options, Intuitive Interface, Self-explanatory Information 
+Examples of Problems:
+Hidden menus: Important functionalities or navigation options are not immediately visible and require the user to remember where to find them or how to access them.
+Lack of contextual suggestions: The system does not provide suggestions or hints while the user is typing or interacting, requiring the user to remember all necessary details or formats.
+Absence of action history: The system does not display a history of recent actions, forcing the user to remember their previous steps or recent actions.
+Generic or non-descriptive names: The names of buttons, menus, or options are not self-explanatory, forcing the user to remember or deduce their functions.
+Lack of instant feedback: The system does not provide immediate feedback on user actions, requiring the user to remember what they did previously to check the outcome.
+Information-overloaded interface: The interface does not organize information clearly and accessibly, requiring the user to remember details instead of easily recognizing them.
+Non-visible instructions: Necessary instructions or guidance are not available in a visible and accessible manner, forcing the user to remember important information.
+Lack of visual shortcuts: The system does not provide visual shortcuts for common actions, requiring the user to remember complex commands or processes.
+Confusing navigation structure: The system does not use an intuitive navigation structure, making it difficult for the user to find information or functionalities without having to remember where to look.
+Unhandled input errors: The system does not provide suggestions or automatic corrections for input errors, forcing the user to remember the correct format or content.
+
+Heuristic: 7. Flexibility and Efficiency 
+Keywords: Keyboard Shortcuts, Personalization, User Efficiency, Repetitive Actions, Interface Adjustments, Advanced Features, Customizable Settings, Workflows, Contextual Menus, Task Automation, Personalization Options, Preference Adjustments, Scrollbar 
+Examples of Problems:
+Lack of keyboard shortcuts: The system does not provide keyboard shortcuts for frequent actions, making usage slower and less efficient for experienced users.
+No personalization options: The system does not allow users to adjust the interface or functionalities to suit their personal preferences or specific needs.
+Advanced features not available: The system does not provide easy access to advanced functionalities, forcing experienced users to go through less efficient processes.
+Repetition of tasks: The system does not offer ways to automate or simplify repetitive tasks, requiring users to perform the same actions multiple times.
+Lack of contextual menus: The system does not utilize contextual menus to provide additional options related to the current context, making navigation less efficient.
+Fixed settings: The system has preset settings that cannot be adjusted, limiting the flexibility for users to adapt the system to their needs.
+Rigid workflows: The system does not allow users to adjust or customize workflows, forcing them to follow a fixed path that may not be the most efficient for everyone.
+Lack of support for customizing shortcuts: The system does not allow users to create or modify custom shortcuts, making it difficult to adapt the system to their working style.
+Interface cluttered with options: The system presents many options in a disorganized manner, making it difficult for users to quickly find and utilize desired functionalities.
+Slow feedback for actions: The system does not respond quickly to user actions, reducing efficiency and the smoothness of interaction.
+
+Heuristic: 8. Aesthetic and Minimalist Design 
+Keywords: Clean Design, Visual Simplicity, Less is More, Uncluttered Interface, Minimalist Layout, Elimination of Unnecessary Elements, Intuitive Design, Visual Clarity, White Space, Focus on Essentials, Reduction of Clutter, Functional Design 
+Examples of Problems:
+Overloaded interface: The system displays too many visual elements and information on a single screen, making the interface confusing and difficult to navigate.
+Unnecessary elements: There are many graphical elements or information that are not essential to the current task, distracting the user and reducing clarity.
+Disorganized design: The interface has a cluttered layout with an excessive combination of colors, fonts, and text sizes, impairing readability and aesthetics.
+Lack of focus on main content: The design includes many embellishments or secondary functionalities that divert attention from the content or main tasks.
+Insufficient white space: The interface does not use white space effectively, resulting in a crowded feeling and lack of visual clarity.
+Redundant information: The system displays repeated information or options that do not add value to the user's experience, complicating the interface.
+Excessive use of decorative graphics: Graphics and icons are used excessively for decoration, distracting users and making it harder to find important information.
+Inconsistent style: The interface uses different visual styles or typographies in various sections, creating a disjointed and confusing experience.
+Excessive visual feedback: The system provides excessive visual feedback for each minor interaction, overwhelming the user with unnecessary visual information.
+Outdated components: The interface uses design elements that appear outdated or out of context, negatively impacting aesthetic perception and functionality.
+
+Heuristic: 9. Help Users Recognize, Diagnose, and Recover from Errors 
+Keywords: No Error Message, No Error Message, Clear Error Messages, Error Diagnosis, Error Recovery, Proposed Solutions, Detailed Feedback, Problem Identification, Contextual Help, Informative Messages, Guidance for Correction, Easy Recovery, Error Indicators, Useful Feedback 
+Examples of Problems:
+Generic error messages: The system displays vague or generic error messages like "Unknown error," without providing details about the cause or how to resolve it.
+Lack of correction suggestions: After an error, the system does not offer suggestions or guidance on how to correct the problem, leaving the user unsure how to proceed.
+Inadequate diagnosis: The system does not provide sufficient information for the user to diagnose the cause of the error, making it difficult to understand what went wrong.
+Complex recovery process: The process to correct an error is complicated or not intuitive, requiring the user to go through multiple steps to resolve the issue.
+Unidentified errors: The system does not clearly signal where errors have occurred, leaving users to guess which part of the input or process is incorrect.
+Lack of real-time feedback: The system does not provide real-time feedback on potential errors while the user is entering data or interacting, resulting in errors that are only recognized later.
+Inadequate help: The system does not provide contextual help or accessible documentation when an error occurs, making recovery difficult for the user.
+Difficult recovery: After correcting an error, the system does not facilitate recovery to the previous state or continuation of the task, forcing the user to restart.
+Poorly positioned error messages: Error messages are not located near the problematic element or are not visible enough, making it difficult to identify and correct the issue.
+Delayed feedback: The system takes time to provide feedback on errors, leaving the user unsure whether an action has been completed correctly or if there was a problem.
+
+Heuristic: 10. Help and Documentation 
+Keywords: Contextual Help, Accessible Documentation, Clear Instructions, User Support, Guidelines, Frequently Asked Questions (FAQ), Tutorials, Usage Guides, Online Assistance, Detailed Documentation, Step-by-Step Help, Support Resources, Lack of Tips 
+Examples of Problems:
+Inaccessible help: The documentation or support is not easily accessible from the user interface, making it difficult to obtain help when needed.
+Unclear instructions: The instructions provided are vague, complex, or difficult to understand, leaving users unsure how to effectively use the system.
+Lack of contextual help: The system does not offer specific or relevant help in the context of the current task or error, forcing users to seek help elsewhere.
+Outdated documentation: The documentation provided is outdated and does not reflect the latest changes or functionalities of the system, leading to incorrect information.
+Absence of tutorials: There are no tutorials or step-by-step guides available to help users learn about the system and its functionalities.
+Insufficient FAQ: The Frequently Asked Questions (FAQ) section is limited and does not cover common user queries, resulting in inadequate support.
+Non-integrated user support: User support is not integrated into the system's interface, such as live chat or quick contact features, making support less accessible.
+Extensive and difficult-to-navigate documentation: The documentation is lengthy or poorly organized, making it difficult for users to find relevant information quickly.
+Lack of step-by-step assistance: There is no help or detailed guidance for complex processes or workflow steps, leaving users unsupported during challenging tasks.
+Outdated help: Help or documentation is not frequently updated to reflect changes in the system, leading to outdated or inaccurate information for users.

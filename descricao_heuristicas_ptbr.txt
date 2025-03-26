@@ -1,0 +1,134 @@
+Heurística: 1. Visibilidade do status do sistema
+Palavras-chaves: Breadcrumb, Feedback do sistema, Comunicação com o usuário, Transparência da interface, Tempo de resposta, Atualizações em tempo real, Indicadores de progresso, Mensagens de status, Confiança do usuário, Notificações de sistema, Sinalização de atividades, Clareza do status, Interface informativa
+Exemplos de Problemas:
+Falta de feedback após uma ação: Quando o usuário clica em um botão ou envia um formulário, mas não recebe nenhum indicativo visual ou auditivo de que a ação foi registrada ou está em processo.
+Barra de carregamento ausente ou insuficiente: Durante o carregamento de uma página ou a execução de uma tarefa que leva tempo, o sistema não exibe uma barra de progresso ou um indicador de que algo está acontecendo, deixando o usuário incerto sobre o que está ocorrendo.
+Mensagens de erro pouco informativas: Quando ocorrem erros, mas o sistema exibe mensagens vagas, como "Algo deu errado", sem fornecer detalhes sobre o que aconteceu ou o que o usuário pode fazer para corrigir o problema.
+Atualizações de status não em tempo real: Informações importantes, como o status de um pedido ou o progresso de uma transferência de arquivo, não são atualizadas em tempo real, levando o usuário a se perguntar se a operação está realmente em andamento.
+Indicadores de atividade invisíveis: Quando o sistema está processando dados ou realizando uma tarefa em segundo plano, mas não há nenhum indicador (como um ícone giratório) para informar ao usuário que o sistema está ocupado.
+Mudanças de estado silenciosas: Uma ação do usuário, como a ativação de um modo ou a alteração de uma configuração, ocorre sem nenhuma mudança visível ou auditiva que indique que o estado foi alterado.
+Confirmação de ação ausente: Após a realização de uma ação crítica, como o envio de um e-mail ou o pagamento de uma compra, o sistema não confirma que a operação foi bem-sucedida, deixando o usuário incerto sobre o status.
+
+Heurística: 2. Correspondência entre o sistema e o mundo real
+Palavras-chaves: Linguagem familiar, Terminologia intuitiva, Metáforas visuais, Representações realistas, Convenções do mundo real, Nomenclatura clara, Interação natural, Simbolismo compreensível, Feedback contextual, Conceitos familiares, Cores e ícones intuitivos, Ações e objetos realistas
+Exemplos de Problemas:
+Uso de jargões ou termos técnicos: O sistema usa terminologia técnica ou jargões que não são familiares para os usuários comuns, dificultando a compreensão e a interação.
+Elementos visuais não intuitivos: Ícones, botões ou elementos visuais que não correspondem às representações do mundo real, tornando a navegação e a interação confusas.
+Metáforas inadequadas: O sistema usa metáforas visuais ou conceituais que não são claras ou são ambíguas, causando confusão sobre a funcionalidade ou a finalidade dos elementos.
+Incompatibilidade com convenções de design: O sistema não segue padrões ou convenções amplamente aceitos, como a colocação de botões em locais inesperados ou o uso de cores e símbolos não padrão.
+Feedback não contextual: O feedback do sistema não corresponde ao contexto da ação do usuário, como mensagens de erro genéricas que não ajudam a entender o problema.
+Representações gráficas imprecisas: Gráficos ou imagens que não representam com precisão os objetos ou ações do mundo real, levando a mal-entendidos ou erros de uso.
+Instruções pouco claras: Orientações e instruções que não refletem a maneira como os usuários normalmente pensariam ou agiriam no mundo real, resultando em ações incorretas ou confusas.
+Navegação não intuitiva: Estruturas e fluxos de navegação que não seguem a lógica ou a organização esperada pelos usuários, dificultando a localização de informações ou a conclusão de tarefas.
+
+Heurística: 3. Liberdade e controle do usuário
+Palavras-chaves: Desfazer, Refazer, Cancelamento de ações, Controle do usuário, Navegação flexível, Opções de personalização, Desfazer e refazer, Confirmar ações, Cancelamento fácil, Retrocesso, Autonomia do usuário, Personalização da interface
+Exemplos de Problemas:
+Falta de opção de desfazer: O sistema não oferece a possibilidade de desfazer ações, levando a frustração quando os usuários cometem erros.
+Sem opção de refazer: Após desfazer uma ação, o sistema não permite reverter para o estado anterior, limitando a flexibilidade do usuário.
+Impossibilidade de cancelar ações: Ações, como envio de formulários ou modificações importantes, não podem ser canceladas antes de serem finalizadas.
+Navegação rígida: O sistema tem um fluxo de navegação fixo e não permite que os usuários voltem a etapas anteriores ou alterem sua trajetória.
+Confirmação obrigatória de ações: A necessidade de confirmação para cada ação pode ser excessiva, tornando o processo mais lento e menos eficiente.
+Sem opções de personalização: O sistema não oferece opções para personalizar a interface ou a funcionalidade de acordo com as preferências do usuário.
+Falta de controle sobre a sessão: O usuário não tem controle sobre o tempo de sessão ou é desconectado automaticamente sem aviso prévio.
+Mensagens de erro não informativas: Mensagens de erro não fornecem informações úteis ou sugestões sobre como corrigir o problema, limitando a capacidade do usuário de agir.
+Interrupções inesperadas: O sistema interrompe o usuário com pop-ups ou alertas sem a possibilidade de adiar ou controlar essas interrupções.
+Impossibilidade de salvar progresso: O sistema não permite salvar o progresso ou retornar ao trabalho anterior, forçando o usuário a começar novamente.
+
+Heurística: 4. Consistência e padrões
+Palavras-chaves: Consistência visual, Padrões de design, Normas de interface, Coerência de estilo, Comportamento previsível, Convenções de design, Layout consistente, Iconografia uniforme, Terminologia consistente, Reutilização de elementos, Feedback uniforme, Navegação coerente
+Exemplos de Problemas: 
+Inconsistência visual: Diferentes páginas ou seções do sistema usam estilos visuais variados, como cores e fontes, criando uma experiência descoordenada.
+Padrões de navegação variados: O sistema usa diferentes métodos de navegação em diferentes partes, como botões de navegação inconsistentes ou menus com layouts variados.
+Iconografia não uniforme: Ícones ou símbolos usados para representar ações ou funções não são consistentes, levando a confusão sobre seu significado.
+Terminologia desigual: O sistema usa termos diferentes para descrever a mesma ação ou conceito em diferentes lugares, causando confusão ao usuário.
+Feedback variado: Mensagens de erro, confirmações ou alertas não seguem um padrão uniforme, fazendo com que o usuário não saiba o que esperar.
+Botões e controles inconsistentes: A aparência e o comportamento dos botões e controles não são uniformes em toda a interface, o que pode confundir os usuários sobre como interagir com o sistema.
+Layouts desiguais: Páginas ou seções do sistema têm layouts diferentes para apresentar informações semelhantes, dificultando a compreensão e a navegação.
+Comportamento inesperado de elementos: Elementos da interface que se comportam de maneira diferente de acordo com o contexto, como menus que se expandem ou colapsam de formas inesperadas.
+Inconsistência na resposta do sistema: O sistema responde de maneiras diferentes a ações similares, como diferentes tipos de feedback para cliques em botões semelhantes.
+Padrões de design não seguidos: O sistema não segue padrões ou convenções de design amplamente reconhecidos, dificultando a adaptação dos usuários e aumentando a curva de aprendizado.
+
+Heurística: 5. Prevenção de erros
+Palavras-chaves: Prevenção de erros, Validação de dados, Confirmação de ações, Mensagens de erro informativas, Restrições de entrada, Proteção contra falhas, Design à prova de erros, Sugestões de correção, Feedback preventivo, Controle de entradas, Confirmar antes de excluir, Prevenção de entrada inválida
+Exemplos de Problemas:
+Falta de validação de dados: O sistema permite que o usuário insira dados inválidos ou incorretos sem fornecer feedback ou restrições, resultando em erros ou falhas.
+Confirmação insuficiente de ações críticas: O sistema realiza ações importantes, como exclusão de dados ou envio de informações, sem solicitar uma confirmação adicional, levando a erros acidentais.
+Mensagens de erro pouco informativas: Quando ocorre um erro, o sistema exibe mensagens genéricas ou vagas, sem fornecer informações úteis para corrigir o problema.
+Entrada de dados não restringida: O sistema não limita os tipos ou formatos de dados que podem ser inseridos, permitindo entradas que podem causar problemas ou falhas.
+Ausência de sugestões de correção: Quando o usuário comete um erro, o sistema não fornece sugestões ou orientações sobre como corrigir o problema.
+Design não à prova de erros: O sistema não implementa proteções para evitar erros comuns, como permitir que usuários façam ações em ordem incorreta ou sem as permissões necessárias.
+Falta de feedback preventivo: O sistema não avisa o usuário sobre possíveis problemas antes de eles ocorrerem, como a falta de campos obrigatórios ou erros de formatação.
+Controle de entradas inadequado: O sistema não verifica ou controla adequadamente as entradas do usuário, levando a dados inconsistentes ou mal formatados.
+Confirmação de exclusão não solicitada: O sistema permite que os usuários excluam informações ou configurações importantes sem solicitar uma confirmação explícita, o que pode resultar em perda acidental de dados.
+Mensagens de feedback não visíveis: As mensagens de erro ou alertas são exibidas de forma não visível ou facilmente ignorável, tornando difícil para o usuário perceber e corrigir os erros.
+
+Heurística: 6. Reconhecer ao invés de lembrar
+Palavras-chaves: Reconhecimento de informações, Menus visíveis, Sugestões contextuais, Elementos de navegação, Dicas e lembretes, Histórico de ações, Elementos de interface visível, Atalhos visuais, Nomes descritivos, Opções de ajuda, Interface intuitiva, Informações autoexplicativas
+Exemplos de Problemas:
+Menus ocultos: Funcionalidades importantes ou opções de navegação não são visíveis imediatamente e exigem que o usuário se lembre de onde encontrá-las ou como acessá-las.
+Falta de sugestões contextuais: O sistema não fornece sugestões ou dicas enquanto o usuário está digitando ou interagindo, exigindo que o usuário se lembre de todos os detalhes ou formatos necessários.
+Ausência de histórico de ações: O sistema não mostra um histórico de ações recentes, obrigando o usuário a lembrar de suas etapas anteriores ou ações recentes.
+Nomes genéricos ou pouco descritivos: Os nomes de botões, menus ou opções não são autoexplicativos, forçando o usuário a lembrar ou deduzir suas funções.
+Falta de feedback instantâneo: O sistema não fornece feedback imediato sobre as ações do usuário, fazendo com que o usuário tenha que lembrar o que fez anteriormente para verificar o resultado.
+Interface sobrecarregada com informações: A interface não organiza informações de forma clara e acessível, fazendo com que o usuário tenha que lembrar detalhes em vez de reconhecê-los facilmente.
+Instruções não visíveis: As instruções ou orientações necessárias não estão disponíveis de forma visível e acessível, obrigando o usuário a se lembrar de informações importantes.
+Falta de atalhos visuais: O sistema não oferece atalhos visuais para ações comuns, exigindo que o usuário se lembre de comandos ou processos complexos.
+Estrutura de navegação confusa: O sistema não usa uma estrutura de navegação intuitiva, tornando difícil para o usuário encontrar informações ou funcionalidades sem ter que lembrar onde procurá-las.
+Erros de entrada não tratados: O sistema não fornece sugestões ou correções automáticas para erros de entrada, forçando o usuário a se lembrar do formato ou do conteúdo correto.
+
+Heurística: 7. Flexibilidade e Eficiência
+Palavras-chaves: Atalhos de teclado, Personalização, Eficiência do usuário, Ações repetitivas, Ajustes de interface, Recursos avançados, Configurações personalizáveis, Fluxos de trabalho, Menus contextuais, Automatização de tarefas, Opções de personalização, Ajustes de preferências, Scrollbar
+Exemplos de Problemas: 
+Falta de atalhos de teclado: O sistema não oferece atalhos de teclado para ações frequentes, tornando o uso mais lento e menos eficiente para usuários experientes.
+Sem opções de personalização: O sistema não permite aos usuários ajustar a interface ou as funcionalidades para atender às suas preferências pessoais ou necessidades específicas.
+Recursos avançados não disponíveis: O sistema não fornece acesso fácil a funcionalidades avançadas, forçando usuários experientes a passar por processos menos eficientes.
+Repetição de tarefas: O sistema não oferece maneiras de automatizar ou simplificar tarefas repetitivas, exigindo que os usuários realizem as mesmas ações várias vezes.
+Falta de menus contextuais: O sistema não utiliza menus contextuais para fornecer opções adicionais relacionadas ao contexto atual, tornando a navegação menos eficiente.
+Configurações fixas: O sistema tem configurações predefinidas que não podem ser ajustadas, limitando a flexibilidade para os usuários adaptarem o sistema às suas necessidades.
+Fluxos de trabalho rígidos: O sistema não permite que os usuários ajustem ou personalizem os fluxos de trabalho, forçando-os a seguir um caminho fixo que pode não ser o mais eficiente para todos.
+Falta de suporte a personalização de atalhos: O sistema não permite que os usuários criem ou modifiquem atalhos personalizados, dificultando a adaptação do sistema ao seu estilo de trabalho.
+Interface sobrecarregada com opções: O sistema oferece muitas opções de forma desorganizada, tornando difícil para os usuários encontrar e utilizar rapidamente as funcionalidades desejadas.
+Feedback lento para ações: O sistema não responde rapidamente às ações dos usuários, reduzindo a eficiência e a fluidez da interação.
+
+Heurística: 8. Estética e Design minimalista
+Palavras-chaves: Design clean, Simplicidade visual, Menos é mais, Interface descomplicada, Layout minimalista, Eliminação de elementos desnecessários, Design intuitivo, Clareza visual, Espaço em branco, Foco no essencial, Redução de desordem, Design funcional
+Exemplos de Problemas: 
+Interface sobrecarregada: O sistema apresenta muitos elementos visuais e informações em uma única tela, tornando a interface confusa e difícil de navegar.
+Elementos desnecessários: Há muitos elementos gráficos ou informações que não são essenciais para a tarefa atual, o que distrai o usuário e reduz a clareza.
+Design desorganizado: A interface tem um layout desordenado com uma combinação excessiva de cores, fontes e tamanhos de texto, o que prejudica a legibilidade e a estética.
+Falta de foco no conteúdo principal: O design inclui muitos adornos ou funcionalidades secundárias que desviam a atenção do conteúdo ou das tarefas principais.
+Espaço em branco insuficiente: A interface não utiliza espaço em branco adequadamente, resultando em uma sensação de aglomeração e falta de clareza visual.
+Informações redundantes: O sistema exibe informações ou opções repetidas que não adicionam valor à experiência do usuário, tornando a interface mais complicada.
+Uso excessivo de gráficos decorativos: Gráficos e ícones decorativos são usados em excesso, distraindo os usuários e tornando mais difícil encontrar informações importantes.
+Estilo inconsistente: A interface usa diferentes estilos visuais ou tipografias em várias seções, criando uma experiência desarticulada e confusa.
+Feedback visual excessivo: O sistema oferece feedback visual excessivo para cada pequena interação, sobrecarregando o usuário com informações visuais desnecessárias.
+Componentes desatualizados: A interface usa elementos de design que parecem desatualizados ou fora de contexto, impactando negativamente a percepção estética e a funcionalidade.
+
+Heurística: 9. Auxiliar usuários a reconhecer, diagnosticar e recuperar erros
+Palavras-chaves: Ausência de Mensagem de Erro, Nenhuma Mensagem de Erro, Mensagens de erro claras, Diagnóstico de erros, Recuperação de erros, Soluções propostas, Feedback detalhado, Identificação de problemas, Ajuda contextual, Mensagens informativas, Orientações para correção, Recuperação fácil, Indicadores de erro, Feedback útil
+Exemplos de Problemas:
+Mensagens de erro genéricas: O sistema exibe mensagens de erro vagas ou genéricas, como "Erro desconhecido", sem fornecer detalhes sobre a causa ou como resolvê-lo.
+Falta de sugestões de correção: Após um erro, o sistema não oferece sugestões ou orientações sobre como corrigir o problema, deixando o usuário sem saber como proceder.
+Diagnóstico inadequado: O sistema não fornece informações suficientes para que o usuário possa diagnosticar a causa do erro, tornando difícil entender o que deu errado.
+Recuperação complexa: O processo para corrigir um erro é complicado ou não é intuitivo, exigindo que o usuário passe por várias etapas para resolver o problema.
+Erros não identificados: O sistema não sinaliza claramente onde ocorreram os erros, deixando os usuários a adivinhar qual parte da entrada ou processo está incorreta.
+Falta de feedback em tempo real: O sistema não fornece feedback em tempo real sobre possíveis erros enquanto o usuário está inserindo dados ou interagindo, resultando em erros que só são percebidos mais tarde.
+Ajuda inadequada: O sistema não fornece ajuda contextual ou documentação acessível quando um erro ocorre, dificultando a recuperação para o usuário.
+Recuperação difícil: Após a correção de um erro, o sistema não facilita a recuperação para o estado anterior ou a continuação da tarefa, forçando o usuário a recomeçar.
+Mensagens de erro mal posicionadas: As mensagens de erro não estão localizadas perto do elemento problemático ou não são visíveis o suficiente, dificultando a identificação e correção do problema.
+Feedback não imediato: O sistema demora para fornecer feedback sobre erros, deixando o usuário sem saber se a ação foi concluída corretamente ou se houve um problema.
+
+Heurística: 10. Ajuda e Documentação
+Palavras-chaves: Ajuda contextual, Documentação acessível, Instruções claras, Suporte ao usuário, Orientações, Perguntas frequentes (FAQ), Tutoriais, Guias de uso, Assistência online, Documentação detalhada, Ajuda passo a passo, Recursos de suporte, Falta de Dicas
+Exemplos de Problemas:
+Ajuda inacessível: A documentação ou suporte não está facilmente acessível a partir da interface do usuário, dificultando a obtenção de ajuda quando necessário.
+Instruções pouco claras: As instruções fornecidas são vagas, complexas ou difíceis de entender, deixando os usuários sem saber como usar efetivamente o sistema.
+Falta de ajuda contextual: O sistema não oferece ajuda específica ou relevante no contexto da tarefa ou erro atual, forçando os usuários a buscar ajuda em outros locais.
+Documentação desatualizada: A documentação fornecida está desatualizada e não reflete as últimas mudanças ou funcionalidades do sistema, levando a informações incorretas.
+Ausência de tutoriais: Não há tutoriais ou guias passo a passo disponíveis para ajudar os usuários a aprender sobre o sistema e suas funcionalidades.
+FAQ insuficiente: A seção de Perguntas Frequentes (FAQ) é limitada e não cobre as dúvidas comuns dos usuários, resultando em um suporte inadequado.
+Suporte não integrado: O suporte ao usuário não está integrado na interface do sistema, como chat ao vivo ou recursos de contato rápido, tornando o suporte menos acessível.
+Documentação extensa e difícil de navegar: A documentação é muito longa ou mal organizada, tornando difícil para os usuários encontrar informações relevantes de forma rápida.
+Falta de assistência passo a passo: Não há ajuda ou orientações detalhadas para os processos complexos ou etapas do fluxo de trabalho, deixando os usuários sem suporte durante tarefas desafiadoras.
+Ajuda não atualizada: A ajuda ou documentação não é atualizada com frequência para refletir as mudanças no sistema, levando a informações desatualizadas ou imprecisas para os usuários.
