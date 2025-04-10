@@ -49,7 +49,7 @@ We illustrated the process to tailor a ChatGPT below:
 - 📑 **Prompt Examples Used with Solaria-GPT**:
   - **Text**:  
     ```
-    Which heuristic is violated in the following defect: [Defect Description]
+    Which heuristic is violated in the following defect.
     ```
   - **Screenshot**:  
     ```
