@@ -76,6 +76,21 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+
+## 👥 Authors
+
+This project was developed by:
+
+- **Lennon Correa Chaves** – [lennon@icomp.ufam.edu.br](mailto:lennon@icomp.ufam.edu.br)
+- **Márcia Sampaio Lima** – [msllima@uea.edu.br](mailto:msllima@uea.edu.br)
+- **Tayana Uchoa Conte** – [tayana@icomp.ufam.edu.br](mailto:tayana@icomp.ufam.edu.br)
+
+## 🏛️ Institutions:
+
+- Institute of Computing - Federal University of Amazonas - UFAM. 🔗 [https://icomp.ufam.edu.br/](https://icomp.ufam.edu.br/)
+- State University of Amazonas - UEA. 🔗[https://www.uea.edu.br/](https://www.uea.edu.br/)
+- USES Research Group. 🔗[https://uses.icomp.ufam.edu.br/](https://uses.icomp.ufam.edu.br/)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
