@@ -28,6 +28,9 @@ A Tailored ChatGPT for Usability Inspection
 4. Use the **"Configure"** tab to fill in model details and capabilities.
 5. Share your tailored GPT with others by generating a public link.
 
+We illustrated the process to tailor a ChatGPT below:
+![chatgpt_all](https://github.com/user-attachments/assets/70dcc7a3-ebf4-43d6-b42d-b8e09b3db335)
+
 ---
 
 ## 🚀 Getting Started
