@@ -1,2 +1,2 @@
 # Solaria-GPT
-Tailored LLM for Usability Inspection
+A Tailored ChatGPT for Usability Inspection
