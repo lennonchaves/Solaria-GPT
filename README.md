@@ -1,7 +1,6 @@
-# Solaria-GPT
-A Tailored ChatGPT for Usability Inspection
 
 # Solaria-GPT 🧠🛠️
+A Tailored ChatGPT for Usability Inspection
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
