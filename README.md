@@ -14,7 +14,7 @@ A Tailored ChatGPT for Usability Inspection
 
 ---
 
-## 🔧 How to Create a Custom ChatGPT
+## 🔧 How to Create a Tailored ChatGPT
 
 ### ✅ Prerequisites
 
@@ -26,7 +26,7 @@ A Tailored ChatGPT for Usability Inspection
 2. Click on the **"Create"** button.
 3. Use the **"Create"** tab to configure your GPT via conversational prompts.
 4. Use the **"Configure"** tab to fill in model details and capabilities.
-5. Share your customized GPT with others by generating a public link.
+5. Share your tailored GPT with others by generating a public link.
 
 ---
 
@@ -38,11 +38,11 @@ A Tailored ChatGPT for Usability Inspection
 
 ## 📦 Resources & Assets
 
-- 📁 **Defect Database**
-- 🖼️ **Screenshot Collection**
-- 🎥 **Video Samples**
-- 📜 **Instructional Prompt for Solaria-GPT**
-- 📘 **Nielsen's Heuristics Documentation**
+- 📁 **[Defect Database](https://github.com/lennonchaves/Solaria-GPT/blob/main/defects_database.xlsx)**
+- 🖼️ **[Screenshot Collection](https://drive.google.com/file/d/18prJVevaRMQg9G-25ugWOvoMoTxM3dkh/view?usp=sharing)**
+- 🎥 **[Video Samples](https://drive.google.com/file/d/1dt35cZ5rBh7wQCyBDuLAqMrLjWEXnhl6/view?usp=sharing)**
+- 📜 **[Instructional Prompt for Solaria-GPT](https://github.com/lennonchaves/Solaria-GPT/blob/main/Instructions.txt)**
+- 📘 **[Nielsen's Heuristics File with Examples](https://github.com/lennonchaves/Solaria-GPT/blob/main/descricao_heuristicas_ptbr.txt)**
 - 📑 **Prompt Examples Used with Solaria-GPT**:
   - **Text**:  
     ```
@@ -61,9 +61,9 @@ A Tailored ChatGPT for Usability Inspection
 
 ## 📊 Output & Results
 
-- 📂 `heuristic_classification_results.xlsx` — Spreadsheet with classification outcomes
-- 📂 `screenshot_defect_detection.xlsx` — Results from screenshot analysis
-- 📂 `video_defect_detection.xlsx` — Results from video analysis
+- 📂 [heuristic_classification_results.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/heuristic_classification_results.xlsx) — Spreadsheet with classification outcomes
+- 📂 [screenshot_defect_detection.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/screenshot_defect_detection.xlsx) — Results from screenshot analysis
+- 📂 [video_defect_detection.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/video_defect_detection.xlsx) — Results from video analysis
 
 ---
 
