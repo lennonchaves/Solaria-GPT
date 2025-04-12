@@ -39,13 +39,21 @@ We illustrated the process to tailor a ChatGPT below:
 
 ---
 
+## 🧠⚙️ Prompt Engineering
+- 📜 **[Instructional Prompt for Solaria-GPT](https://github.com/lennonchaves/Solaria-GPT/tree/main/prompt)**
+- 📘 **[Nielsen's Heuristics File with Examples](https://github.com/lennonchaves/Solaria-GPT/tree/main/description)**
+
+---
+
 ## 📦 Resources & Assets
 
-- 📁 **[Defect Database](https://github.com/lennonchaves/Solaria-GPT/blob/main/defects_database.xlsx)**
+- 📁 **[Defect Database](https://github.com/lennonchaves/Solaria-GPT/tree/main/dataset)**
 - 🖼️ **[Screenshot Collection](https://drive.google.com/file/d/18prJVevaRMQg9G-25ugWOvoMoTxM3dkh/view?usp=sharing)**
 - 🎥 **[Video Samples](https://drive.google.com/file/d/1dt35cZ5rBh7wQCyBDuLAqMrLjWEXnhl6/view?usp=sharing)**
-- 📜 **[Instructional Prompt for Solaria-GPT](https://github.com/lennonchaves/Solaria-GPT/blob/main/Instructions.txt)**
-- 📘 **[Nielsen's Heuristics File with Examples](https://github.com/lennonchaves/Solaria-GPT/blob/main/descricao_heuristicas_ptbr.txt)**
+
+---
+
+## 🤖⚙️ Prompt Strategies
 - 📑 **Prompt Examples Used with Solaria-GPT**:
   - **Text**:  
     ```
@@ -64,9 +72,9 @@ We illustrated the process to tailor a ChatGPT below:
 
 ## 📊 Output & Results
 
-- 📂 [heuristic_classification_results.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/heuristic_classification_results.xlsx) — Spreadsheet with classification outcomes
-- 📂 [screenshot_defect_detection.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/screenshot_defect_detection.xlsx) — Results from screenshot analysis
-- 📂 [video_defect_detection.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/video_defect_detection.xlsx) — Results from video analysis
+- 📂 [heuristic_classification_results.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/results/heuristic_classification_results.xlsx) — Spreadsheet with classification outcomes
+- 📂 [screenshot_defect_detection.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/results/screenshot_defect_detection.xlsx) — Results from screenshot analysis
+- 📂 [video_defect_detection.xlsx](https://github.com/lennonchaves/Solaria-GPT/blob/main/results/video_defect_detection.xlsx) — Results from video analysis
 
 ---
 
