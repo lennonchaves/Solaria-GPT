@@ -26,7 +26,25 @@ A Tailored ChatGPT for Usability Inspection
 2. Click on the **"Create"** button.
 3. Use the **"Create"** tab to configure your GPT via conversational prompts.
 4. Use the **"Configure"** tab to fill in model details and capabilities.
-5. Share your tailored GPT with others by generating a public link.
+   - **Name**: "Solaria-GPT"
+   - **Description**: "Solaria-GPT is an assistant that detects usability issues and classifies them according to Nielsen's heuristics. To use it, provide a textual description of the problem or a screenshot/video of the design to be evaluated."
+   - **Instructions**: Copy and Paste the [Instructional Prompt for Solaria-GPT](https://github.com/lennonchaves/Solaria-GPT/tree/main/prompt) in the field.
+   - **Conversation Startes**: Copy and Paste the following icebreakers:
+     ```
+     Which heuristic is violated in this defect description?
+     ```
+     ```
+     What are the usability issues in the attached video?
+     ```
+     ```
+     Analyze the attached video and perform a usability inspection.
+     ```
+     ```
+     Are there any visible usability issues in the provided image?
+     ```
+   - **Knowledge**: Attach the file [Nielsen's Heuristics File with Examples](https://github.com/lennonchaves/Solaria-GPT/tree/main/description) in the field.
+  
+6. Share your tailored GPT with others by generating a public link.
 
 We illustrated the process to tailor a ChatGPT below:
 ![chatgpt_all](https://github.com/user-attachments/assets/70dcc7a3-ebf4-43d6-b42d-b8e09b3db335)
