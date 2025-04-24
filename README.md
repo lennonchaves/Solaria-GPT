@@ -39,13 +39,13 @@ We illustrated the process to tailor a ChatGPT below:
 
 ---
 
-## 🧠⚙️ Prompt Engineering
+## 🧠⚙️ Prompt Instructions - 
 - 📜 **[Instructional Prompt for Solaria-GPT](https://github.com/lennonchaves/Solaria-GPT/tree/main/prompt)**
 - 📘 **[Nielsen's Heuristics File with Examples](https://github.com/lennonchaves/Solaria-GPT/tree/main/description)**
 
 ---
 
-## 📦 Resources & Assets
+## 📦 Datasets
 
 - 📁 **[Defect Database](https://github.com/lennonchaves/Solaria-GPT/tree/main/dataset)**
 - 🖼️ **[Screenshot Collection](https://drive.google.com/file/d/18prJVevaRMQg9G-25ugWOvoMoTxM3dkh/view?usp=sharing)**
