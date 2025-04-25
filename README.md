@@ -54,8 +54,17 @@ We illustrated the process to tailor a ChatGPT below:
 
 ## 🚀 Getting Started
 
-- **Access Solaria-GPT**: [https://chatgpt.com/g/g-gO0eGq3rN-solaria-gpt](https://chatgpt.com/g/g-gO0eGq3rN-solaria-gpt)
+How to use Solaria-GPT?
 
+1. **Access Solaria-GPT**: [https://chatgpt.com/g/g-gO0eGq3rN-solaria-gpt](https://chatgpt.com/g/g-gO0eGq3rN-solaria-gpt)
+2. **Data Input**: Enter some input data
+   - **Text**: description of some usability defect
+   - **screenshot**: a screenshot of the software that you want to check for usability defects
+   - **video**: a recording of a video interaction with the software that you want to check for usability defects
+ 3. **Processing**: Wait for the Solaria-GPT to process your input
+ 4. **Response**: Solaria-GPT will have the following response:
+    - **For text**: the violated heuristic by the problem inserted
+    - **For media (screenshot and video)**: the defect description, the location where the problem happens, and the violated heuristic  
 ---
 
 ## 🧠⚙️ Prompt Instructions
