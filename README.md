@@ -6,6 +6,7 @@ A Tailored ChatGPT for Usability Inspection
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![ChatGPT](https://img.shields.io/badge/based_on-ChatGPT-ff69b4)
 ![Version](https://img.shields.io/badge/version-1.0.0-yellow)
+[![DOI](https://zenodo.org/badge/922763471.svg)](https://doi.org/10.5281/zenodo.15282435)
 
 **Solaria-GPT** is an AI-driven tool designed to assist in **usability inspection** by detecting defects and classifying heuristic violations. Built on top of ChatGPT, the system supports two types of input formats:
 
@@ -125,8 +126,9 @@ If you use **Solaria-GPT** in your research or project, please cite it as follow
 @misc{solariaGPT,
   author       = {Lennon Chaves, Marcia Lima, Tayana Conte},
   title        = {{Solaria-GPT: A Usability Inspection Tool}},
-  year         = {2024},
-  howpublished = {\url{https://github.com/lennonchaves/Solaria-GPT}}
+  year         = {2025},
+  howpublished = {\url{https://github.com/lennonchaves/Solaria-GPT}},
+  doi = {10.5281/zenodo.15282435}
 }
 ```
 
