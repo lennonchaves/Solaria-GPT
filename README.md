@@ -117,6 +117,19 @@ This project was developed by:
 - State University of Amazonas - UEA. 🔗[https://www.uea.edu.br/](https://www.uea.edu.br/)
 - USES Research Group. 🔗[https://uses.icomp.ufam.edu.br/](https://uses.icomp.ufam.edu.br/)
 
+## 📚 Citation
+
+If you use **Solaria-GPT** in your research or project, please cite it as follows:
+
+```bibtex
+@misc{solariaGPT,
+  author       = {Lennon Chaves, Marcia Lima, Tayana Conte},
+  title        = {{Solaria-GPT: A Usability Inspection Tool}},
+  year         = {2024},
+  howpublished = {\url{https://github.com/lennonchaves/Solaria-GPT}}
+}
+```
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
