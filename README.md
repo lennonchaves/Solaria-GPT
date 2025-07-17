@@ -72,6 +72,7 @@ How to use Solaria-GPT?
 - 📘 **[Nielsen's Heuristics File with Examples](https://github.com/lennonchaves/Solaria-GPT/tree/main/description)**
 
 ---
+# Experiments and Comparison with Other Tools 
 
 ## 📦 Datasets
 
@@ -95,6 +96,28 @@ How to use Solaria-GPT?
     ```
     Analyze the attached video and perform a usability inspection.
     ```
+
+---
+
+## Execution
+- Use the dataset available
+- Use the prompt strategies
+- TOOL must be: Solaria-GPT, Qween, DeepSeek, Claude, and Gemini.
+
+### Textual Validation
+1. Open the [TOOL]
+2. Type the prompt strategy for textual input
+3. Add the defect from the *defects database*
+
+### Screenshot Validation
+1. Open the [TOOL]
+2. Type the prompt strategy for screenshot input
+3. Attach the screenshot from the *screenshot collection*
+
+### Video Validation
+1. Open the [TOOL]
+2. Type the prompt strategy for video input
+3. Attach the video from the *video samples*
 
 ---
 
