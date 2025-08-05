@@ -134,6 +134,9 @@ How to use Solaria-GPT?
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+## 📝Paper Reference
+
+Chaves, L., Lima, M., & Conte, T. (2025). _Solaria-GPT: A Tailored ChatGPT Tool for Usability Inspection_. In Proceedings of the XXXIX Brazilian Symposium on Software Engineering (SBES 25). Recife, PE, Brazil, 2025. [Pre-print](https://github.com/lennonchaves/Solaria-GPT/blob/main/2025_SBES_Tool_Paper.pdf).
 
 
 ## 👥 Authors
