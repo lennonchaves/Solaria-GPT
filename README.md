@@ -99,7 +99,7 @@ How to use Solaria-GPT?
 
 ---
 
-## Execution
+## 💻 Execution
 - Use the dataset available
 - Use the prompt strategies
 - TOOL must be: Solaria-GPT, Qween, DeepSeek, Claude, and Gemini.
@@ -155,12 +155,14 @@ This project was developed by:
 
 ## 📚 Citation
 
-If you use **Solaria-GPT** in your research or project, please cite it as follows:
+If you use **Solaria-GPT** artifact in your research or project, please cite it as follows:
+
+Chaves, L., Lima, M., & Conte, T. (2025). _Supplementary Material - Solaria-GPT: A Tailored ChatGPT Tool for Usability Inspection_. In Proceedings of the XXXIX Brazilian Symposium on Software Engineering (SBES 25). Recife, PE, Brazil, 2025. DOI: 10.5281/zenodo.15282435. 
 
 ```bibtex
 @misc{solariaGPT,
   author       = {Lennon Chaves, Marcia Lima, Tayana Conte},
-  title        = {{Solaria-GPT: A Usability Inspection Tool}},
+  title        = {{Supplementary Material - Solaria-GPT: A Tailored ChatGPT Tool for Usability Inspection}},
   year         = {2025},
   howpublished = {\url{https://github.com/lennonchaves/Solaria-GPT}},
   doi = {10.5281/zenodo.15282435}
